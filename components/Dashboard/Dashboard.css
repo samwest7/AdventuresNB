@@ -1,0 +1,29 @@
+.PageWrapper {
+  display: flex; }
+
+.MapWrapper {
+  width: 100%; }
+
+.MapContainer {
+  display: block;
+  padding-left: 380px; }
+
+.MapElement {
+  height: calc(100vh - 60px);
+  width: 100%; }
+
+.InfoWindowImage {
+  display: block;
+  margin: auto;
+  width: 200px;
+  cursor: pointer; }
+
+.Loading {
+  padding-top: 100px !important;
+  margin: auto !important; }
+
+@media only screen and (max-width: 768px) {
+  .AdventureListDrawer {
+    display: none; }
+  .MapContainer {
+    padding-left: 0; } }

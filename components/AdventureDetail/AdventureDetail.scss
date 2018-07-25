@@ -1,0 +1,50 @@
+.DetailPageContainer {
+  display: flex;
+}
+
+.AdventureDetailContainer {
+  padding-left: 380px;
+  width: 100%;
+}
+
+.Card {
+  margin: 10px;
+}
+
+.SwipeableView {
+  height: 350px;
+  max-height: 45vh;
+  object-fit: cover;
+  background-color: rgb(149, 143, 134);
+}
+
+.CardImage {
+  width: 100%;
+  object-fit: cover;
+  max-height: 45vh;
+  background-color: rgb(149, 143, 134);
+}
+
+.TagsWrapper {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.Tag {
+  margin: 4px !important;
+}
+
+.DisclaimerNotice {
+  padding: 0 20px;
+  text-align: center;
+}
+
+@media only screen and (max-width: 768px) {
+  .AdventureListDrawer {
+    display: none;
+  }
+
+  .AdventureDetailContainer {
+    padding-left: 0;
+  }
+}

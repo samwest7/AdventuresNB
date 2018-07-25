@@ -1,0 +1,65 @@
+[
+  {
+    "description": "Description of chalmers hospital",
+    "id": "chalmers-hospital",
+    "location": {
+      "latitude": 45.938613,
+      "longitude": -66.653868
+    },
+    "name": "Dr. Everett Chalmers Regional Hospital",
+    "photo_urls": [
+    ],
+    "short_description": "Short description of Chalmers",
+    "tags": [
+    ],
+    "time": 45
+  },
+  {
+    "description": "Description of Fredericton Pubilc Health",
+    "id": "fredericton-public-health",
+    "location": {
+      "latitude": 45.977330,
+      "longitude": -66.632692
+    },
+    "name": "Fredericton Public Health",
+    "photo_urls": [
+    ],
+    "short_description": "Short description",
+    "tags": [
+    ],
+    "time": 51
+  },
+  {
+    "description": "Description of Clinic 554",
+    "id": "clinic-554",
+    "location": {
+      "latitude": 45.959483,
+      "longitude": -66.641457
+    },
+    "name": "Clinic 554",
+    "photo_urls": [
+      "https://thumbs.dreamstime.com/b/emergency-hospital-building-17898695.jpg"
+    ],
+    "short_description": "Short description",
+    "tags": [
+    ],
+    "time": 30
+  },
+  {
+    "description": "Description of Oromocto Public Hospital",
+    "id": "oromocto-hospital",
+    "location": {
+      "latitude": 45.848637,
+      "longitude":  -66.473177
+    },
+    "name": "Oromocto Public Hospital",
+    "photo_urls": [
+    ],
+    "short_description": "Short description",
+    "tags": [
+    ],
+    "time": 15
+  }
+
+
+]
